@@ -17,9 +17,7 @@ Source this `.env` file:
 ```shell
 . .env
 ```
-Then simply run the python module to send HTML-mail to alejandrodegroote@outlook.com
-
-## Examples
+Then simply run the python module to send HTML-mail to alejandrodegroote@outlook.com:
 ```shell
 python3 email_sender.py
 ```
